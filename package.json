@@ -1,0 +1,26 @@
+{
+  "name": "tracker.projects.dc",
+  "version": "1.0.0",
+  "description": "Tracking Projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naberin/tracker.projects.dc.git"
+  },
+  "keywords": [
+    "Electron.js"
+  ],
+  "author": "Norman Aberin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naberin/tracker.projects.dc/issues"
+  },
+  "homepage": "https://github.com/naberin/tracker.projects.dc#readme",
+  "devDependencies": {
+    "electron": "^16.0.1"
+  }
+}
